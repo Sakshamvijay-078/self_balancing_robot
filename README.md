@@ -367,7 +367,7 @@ This project is licensed under the MIT License - see [LICENSE](LICENSE) file for
 
 For questions or issues:
 - Open an [GitHub Issue](https://github.com/Sakshamvijay-078/self_balancing_robot/issues)
-- Contact: saksham.vijay@iitjammu.ac.in
+- Contact: 2023uee0150@iitjammu.ac.in
 
 ---
 
